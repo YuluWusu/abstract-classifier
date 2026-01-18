@@ -42,7 +42,7 @@ Testing: Evaluates the model's ability to predict topics on a separate test set.
 Installation
 To run this project locally, ensure you have Python installed, then:
 
-Clone the repository: git clone https://github.com/YOUR_USERNAME/arxiv-abstract-classifier.git
+Clone the repository: git clone https://github.com/YuluWusu/abstract-classifier.git
 
 Install required libraries: pip install datasets sentence-transformers sklearn matplotlib seaborn numpy
 
