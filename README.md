@@ -1,4 +1,6 @@
 **ArXiv Abstract Topic Classifier**
+
+
 Introduction
 This project is an AI application designed to process and categorize academic research abstracts. By analyzing the text from the ArXiv dataset, the system can identify the primary field of study (e.g., Computer Science, Mathematics, Physics) that a paper belongs to. It compares different text vectorization methods to achieve the best classification performance.
 
